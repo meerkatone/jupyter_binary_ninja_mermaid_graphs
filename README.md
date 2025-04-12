@@ -1,5 +1,5 @@
-# Binary-Ninja-Mermaid-Graphs
-Binary Ninja Mermaid Graphs
+# Jupyter-Binary-Ninja-Mermaid-Graphs
+Jupyter Binary Ninja Mermaid Graphs
 
 Jupyter notebook for Binary Ninja Commercial to create headless Mermaid dominator graphs.
 
